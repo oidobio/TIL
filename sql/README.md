@@ -20,3 +20,9 @@
 | 3 | LeetCode | [595. Big Countries](https://leetcode.com/problems/big-countries/) | [PostgreSQL](leetcode/0595.sql) | ✅ |
 | 4 | LeetCode | [1148. Article Views I](https://leetcode.com/problems/article-views-i/) | [PostgreSQL](leetcode/1148.sql) | ✅ |
 | 5 | LeetCode | [1683. Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | [PostgreSQL](leetcode/1683.sql) | ✅ |
+| 6 | LeetCode | [1378. Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | [PostgreSQL](leetcode/1378.sql) | ✅ |
+
+<br><br>
+
+## Reference
+- [(웹) LeetCode - SQL 50](https://leetcode.com/studyplan/top-sql-50/)
