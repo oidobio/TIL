@@ -23,6 +23,7 @@
 | 6 | LeetCode | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [.py](leetcode/0005.py) | 📖 | Time Limit Exceeded
 | 7 | LeetCode | [1. Two Sum](https://leetcode.com/problems/two-sum/) | [.py](leetcode/0001.py) | ✅ |
 | 8 | LeetCode | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [.py](leetcode/0042.py) | 📖 |
+| 8 | LeetCode | [15. 3Sum](https://leetcode.com/problems/3sum/) | [.py](leetcode/0015.py) | 📖 | Time Limit Exceeded
 
 <br><br>
 

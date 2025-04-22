@@ -21,6 +21,7 @@
 | 4 | LeetCode | [1148. Article Views I](https://leetcode.com/problems/article-views-i/) | [PostgreSQL](leetcode/1148.sql) | ✅ |
 | 5 | LeetCode | [1683. Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | [PostgreSQL](leetcode/1683.sql) | ✅ |
 | 6 | LeetCode | [1378. Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | [PostgreSQL](leetcode/1378.sql) | ✅ |
+| 7 | LeetCode | [1068. Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | [PostgreSQL](leetcode/1068.sql) | ✅ |
 
 <br><br>
 
